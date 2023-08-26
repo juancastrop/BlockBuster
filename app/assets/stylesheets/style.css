@@ -1,7 +1,14 @@
 h1{
-    color: blue;
+    color: white;
 }
 
 .hola{
-    backgroud-color: blue
+    background-color: black;
+}
+
+body{
+    background-image: url(block.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
